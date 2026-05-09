@@ -185,7 +185,3 @@ Can be deployed using:
 - GitHub Pages
 
 ---
-
-# 👨‍💻 Author
-
-Your Name
