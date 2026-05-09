@@ -1,4 +1,4 @@
-<img width="898" height="1030" alt="WhatsApp Image 2026-05-09 at 8 35 45 PM" src="https://github.com/user-attachments/assets/6c3b74d4-6eb0-4a5f-915f-7c0fa4612f1d" /># Zombie Mall Escape 🧟
+# Zombie Mall Escape 🧟
 
 An AI-powered survival game built with React where different zombies use different search algorithms to hunt the player.
 
